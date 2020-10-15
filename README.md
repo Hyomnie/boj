@@ -1,1 +1,1 @@
-# boj
+# algorithm ps
