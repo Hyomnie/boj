@@ -1,6 +1,6 @@
 n=input()
 row=int(n[1])
-col=int(ord(n[0]))-int(ord('a'))+1
+col=int(ord(n[0]))-int(ord('a'))+1 //아스키코드로 변환
 count=0
 dx=[1, -1, 1, -1, 2, 2, -2, -2]
 dy=[2, 2, -2, -2, 1, -1, 1, -1]
