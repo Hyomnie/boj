@@ -14,7 +14,7 @@ def bfs(x,y):
         continue
       if graph[nx][ny]==1:
         graph[nx][ny]=graph[x][y]+1
-        queue.qppend((nx,ny))
+        queue.append((nx,ny))
   return graph[n-1][m-1]
 
 n,m=map(int, input().split())
