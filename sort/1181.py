@@ -1,6 +1,6 @@
 n=int(input())
 l=[]
-length=[]
+
 for i in range(n):
   word=input()
   if (len(word),word) in l:
