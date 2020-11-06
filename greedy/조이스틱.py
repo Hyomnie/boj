@@ -20,4 +20,5 @@ def solution(name):
             i+=r
     return answer
 
-#좌우로 스틱 이동하는 것이 어려웠다
+#좌우로 스틱 이동하는 것이 어려웠다.
+# https://gurumee92.tistory.com/182 참고했다.
